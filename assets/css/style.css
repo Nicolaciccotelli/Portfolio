@@ -1,0 +1,85 @@
+* {
+
+}
+
+body {
+    
+}
+
+
+
+
+/* ---scrollbar--- */
+::-webkit-scrollbar {
+    width: 4px;
+    border-radius: 20px;
+} 
+
+::-webkit-scrollbar-track {
+    background: ;
+}
+
+::-webkit-scrollbar-thumb {
+    background: white;
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: darkslategrey;
+}
+
+
+
+
+
+/* ---HEADER--- */
+.profil-photo {
+    width: 25px;
+    height: 25px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+
+/* ---ABOUT ME--- */
+
+
+
+/* ---WORKS--- */
+.separation {
+    margin: 0 2rem;
+}
+
+
+/* ---CONTACTS--- */
+.go-up {
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
